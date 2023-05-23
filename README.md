@@ -26,6 +26,9 @@ AR experience with 3D models, animation, 3D interactivity and UI | using 8th Wal
   
 
 ![ezgif com-optimize](https://github.com/victorcappa/geekspeak-aniversary/assets/40408965/698168de-1777-4781-81fe-206c68136a27)
+ 
+ ![ezgif com-optimize-2](https://github.com/victorcappa/geekspeak-aniversary/assets/40408965/9c73235c-393a-422c-b194-18a14b9dab07)
+
 
 
 </div>
