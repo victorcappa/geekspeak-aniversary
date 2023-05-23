@@ -24,13 +24,11 @@ AR Experience to celebrate 20 years of Canadian company, geekspeak
 AR experience with 3D models, animation, 3D interactivity and UI | using 8th Wall + AFRAME
   </p>
   
-<div style="width: 50%; height: 50%">
  
-![ezgif com-optimize style="width: 50%; height: 50%"](https://github.com/victorcappa/geekspeak-aniversary/assets/40408965/698168de-1777-4781-81fe-206c68136a27)
+![ezgif com-optimize](https://github.com/victorcappa/geekspeak-aniversary/assets/40408965/698168de-1777-4781-81fe-206c68136a27)
  
 ![ezgif com-optimize](https://github.com/victorcappa/geekspeak-aniversary/assets/40408965/346c941d-f972-4d3a-8309-56123ae280a7)
- 
- </div>
+
 
 
 </div>
